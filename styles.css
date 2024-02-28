@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#container
+.container
 {
 	width: 400px;
 	height: 100px;
@@ -11,16 +11,17 @@
 	text-align: center;
 }
 
-#green
+.green
 {
 	display: inline-block;
 	width:80px;
 	height: 80px;
 	border-radius: 50%;
 	background-color: green;
+	border: 
 }
 
-#yellow
+.yellow
 {
 	display: inline-block;
 	width:80px;
@@ -29,7 +30,7 @@
 	background-color: yellow;
 }
 
-#red
+.red
 {
 	display: inline-block;
 	width:80px;
